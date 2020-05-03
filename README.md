@@ -1,9 +1,6 @@
 # python-projects
 
 
-## live link
-
-https://slyfox1999.github.io/python-projects/
 
 
 
