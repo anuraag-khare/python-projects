@@ -29,5 +29,7 @@ browser = Webdriver.Chrome(*path to chrome webdriver file*)
 example-
 Path shown by windows:
 > C:\Users\Anuraag\Downloads\preview.jpg
+
+
 Path you need to enter:
 > C:/Users/Anuraag/Downloads/preview.jpg
