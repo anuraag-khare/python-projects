@@ -7,10 +7,11 @@
 ## This is python web crawling script written using selenium module.
 
 This script automates the whatsapp web wherein users are given the following options:
--Send a Text message to any of your contacts (Users have the option to set the frequency of the message)
--Send an image or a video file.
--Send a document.
--View your own profile.
+
+- Send a Text message to any of your contacts (Users have the option to set the frequency of the message)
+- Send an image or a video file.
+- Send a document.
+- View your own profile.
 
 **NOTE:-**
 1. This code uses Microsoft Edge Webdriver. If you wish to run on chrome or other browser you have to edit the code 
@@ -20,5 +21,5 @@ This script automates the whatsapp web wherein users are given the following opt
 example-
 Path shown by windows:
 > C:\Users\Anuraag\Downloads\preview.jpg
-          .Path you need to enter:
->C:/Users/Anuraag/Downloads/preview.jpg
+Path you need to enter:
+> C:/Users/Anuraag/Downloads/preview.jpg
