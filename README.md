@@ -1,3 +1,3 @@
 # python-projects
-## Projects made using pyhton
+## Projects made using python
 
