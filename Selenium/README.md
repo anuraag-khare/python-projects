@@ -1,4 +1,4 @@
-# python-projects
+# Whatsapp automation using Selenium
 
 
 
