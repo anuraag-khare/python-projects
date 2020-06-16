@@ -4,7 +4,7 @@
 
 
 
-This is python werb crawling script written using selenium module.
+This is python web crawling script written using selenium module.
 
 This script automates the whatsapp web wherein users are given the following options:-
   1.Send a Text message to any of your contacts (Users have the option to set the frequency of the message)
