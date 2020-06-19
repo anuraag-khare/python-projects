@@ -28,8 +28,8 @@ browser = Webdriver.Chrome(*path to chrome webdriver file*)
 3. Whenever entering the path of the file replace all " \ " with "/" 
 example-
 Path shown by windows:
-> C:\Users\Anuraag\Downloads\preview.jpg
+> C:\Users\UserName\Downloads\preview.jpg
 
 
 Path you need to enter:
-> C:/Users/Anuraag/Downloads/preview.jpg
+> C:/Users/UserName/Downloads/preview.jpg
